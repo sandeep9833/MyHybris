@@ -1,6 +1,6 @@
 
 @SuppressWarnings("javadoc")
-public class Class2
+public class MyClass3
 {
 
 }
